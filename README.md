@@ -1,2 +1,2 @@
 # Burger
-One page html+css site for some burger place
+Two pages html+css site for some burger place & cat
